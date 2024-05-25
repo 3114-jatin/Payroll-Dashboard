@@ -6,12 +6,10 @@ To run this project
 Download this repository
 
 Run :
-python manage.py makemigrations
-python manage.py migrate
-
-python manage.py populatedb.py
-
-python manage.py runserver
+1. python manage.py makemigrations
+2. python manage.py migrate
+3. python manage.py populatedb.py
+4. python manage.py runserver
 
 
 
